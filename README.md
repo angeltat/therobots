@@ -1,4 +1,3 @@
-https://angeltat.github.io/therobots/
 
 # Getting Started with Create React App
 
